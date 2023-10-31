@@ -87,23 +87,23 @@ class Junyi:
         return self._query(q)
 
     def get_problems_by_area(self, area):
-        q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, options  FROM problem
-        WHERE area = "{area}" 
+        q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, rationale ,
+        options, documents  FROM problem WHERE area = "{area}" 
         """
         return self._query(q)
 
     def get_problems_by_topic(self, topic):
-        q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, options  FROM problem
-        WHERE topic = "{topic}" 
+        q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, rationale ,
+        options, documents FROM problem WHERE topic = "{topic}" 
         ORDER BY name;"""
         return self._query(q)
 
     def get_problems_by_names(self, names: str):
         name_list = names.split("|")
-        name_list = [f"{name}" for name in name_list]
+        name_list = [f"'{name}'" for name in name_list]
         names = " , ".join(name_list)
         names = f"({names})"
-        q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, rationale ,options  FROM problem
+        q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, rationale ,options, documents FROM problem
         WHERE name IN {names}
         ORDER BY name;
         """
