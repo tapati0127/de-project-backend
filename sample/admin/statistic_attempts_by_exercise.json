@@ -1,0 +1,45 @@
+{
+    "count": 10,
+    "results": [
+        {
+            "num_trial": 7,
+            "num_user": 642
+        },
+        {
+            "num_trial": 4,
+            "num_user": 700
+        },
+        {
+            "num_trial": 10,
+            "num_user": 1088
+        },
+        {
+            "num_trial": 9,
+            "num_user": 1284
+        },
+        {
+            "num_trial": 2,
+            "num_user": 1586
+        },
+        {
+            "num_trial": 6,
+            "num_user": 1775
+        },
+        {
+            "num_trial": 5,
+            "num_user": 2994
+        },
+        {
+            "num_trial": 3,
+            "num_user": 4977
+        },
+        {
+            "num_trial": 8,
+            "num_user": 5207
+        },
+        {
+            "num_trial": 1,
+            "num_user": 5851
+        }
+    ]
+}

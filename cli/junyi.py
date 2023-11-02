@@ -44,6 +44,15 @@ class Junyi:
             "count": len(results)
         }
 
+    def _query_list(self, query, key):
+        cursor = self._connection.cursor()
+        res: list[Row] = cursor.execute(query)
+        results = [row.asDict(recursive=True) for row in res]
+        return {
+            "results": [result[key] for result in results],
+            "count": len(results)
+        }
+
     def login(self, username, password):
         query = f"""SELECT user_id, username, password FROM user_table
         WHERE username = "{username}"
@@ -52,7 +61,7 @@ class Junyi:
         if res['count'] == 0:
             raise Exception("Your username does not exist!")
         else:
-            password_ref = res['results'][0]['password']
+            password_ref = str(res['results'][0]['password'])
             if password_ref == password:
                 return res
             else:
@@ -76,7 +85,7 @@ class Junyi:
     def add_user(self, user_id, username, gender, first_login_date_TW, user_city, password, points=0, badges_cnt=0,
                  user_grade=0):
         q = f"""INSERT INTO user_table (user_id, username, gender, points, badges_cnt, first_login_date_TW, user_grade, user_city, password)
-        VALUES ({user_id}, '{username}', '{gender}', 0, 0, Date("{first_login_date_TW}"), 0, "{user_city}", "{password}");
+        VALUES ({user_id+1}, '{username}', '{gender}', 0, 0, Date("{first_login_date_TW}"), 0, "{user_city}", "{password}");
         """
         self._query(q)
 
@@ -84,13 +93,18 @@ class Junyi:
         q = f"""SELECT DISTINCT topic FROM problem
         WHERE area = "{area}" ;
                 """
-        return self._query(q)
+        return self._query_list(q, "topic")
 
     def get_problems_by_area(self, area):
         q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, rationale ,
         options, documents  FROM problem WHERE area = "{area}" 
         """
         return self._query(q)
+
+    def get_all_areas(self):
+        q = f"""SELECT area FROM problem GROUP BY area
+        """
+        return self._query_list(q, "area")
 
     def get_problems_by_topic(self, topic):
         q = f"""SELECT name, prerequisites,  seconds_per_fast_problem, topic, area, question, answer, rationale ,
@@ -117,7 +131,7 @@ class Junyi:
         ORDER BY time_done DESC;"""
         return self._query(q)
 
-    def get_total_problem_correct_rate_by_user_id(self, user_id, start=None, end=None):
+    def get_total_problem_correct_rate_by_user_id(self, user_id, start="", end=""):
         time_query = get_time_query(start, end)
         q = f"""SELECT COUNT(*) as total, SUM(CASE WHEN correct = 1 THEN 1 ELSE 0 END) as correct FROM log_table
         WHERE user_id = {user_id} {time_query}"""
@@ -139,10 +153,17 @@ class Junyi:
         GROUP BY problem.topic ORDER BY last_try DESC"""
         return self._query(q)
 
+    def get_problems_correct_rate_by_user_id(self, user_id, start=None, end=None):
+        time_query = get_time_query(start, end)
+        q = f"""SELECT MAX(log_table.time_done) as last_try, COUNT(log_table.time_done) as num_done, SUM(CASE WHEN log_table.correct = 1 THEN 1 ELSE 0 END) as correct, problem.name FROM log_table
+        RIGHT JOIN problem ON log_table.exercise=problem.name
+        WHERE user_id = {user_id} {time_query} 
+        GROUP BY problem.name ORDER BY last_try DESC"""
+        return self._query(q)
+
     def write_log(self, user_id, exercise, time_done, time_taken, correct):
         # time_done must be in seconds timestamp
         # time_taken second
-        correct = 'true' if correct else "false"
         q = f"""INSERT INTO log_table (user_id, exercise, suggested, review_mode, time_done, time_taken, correct)
         VALUES ({user_id},'{exercise}', false, false, {time_done}, {time_taken}, {correct});"""
         return self._query(q)
@@ -153,8 +174,8 @@ class Junyi:
         return self._query(q)
 
     def statistic_cities(self):
-        q = f"""SELECT count(user_id) as num_user, exercise FROM log_table
-        GROUP BY exercise ORDER BY num_user DESC LIMIT 10"""
+        q = f"""SELECT count(user_id) as num_user, user_city FROM user_table
+        GROUP BY user_city ORDER BY num_user DESC"""
         return self._query(q)
 
     def statistic_problems(self, start=None, end=None):
@@ -172,12 +193,14 @@ class Junyi:
     def statistic_topics(self, start=None, end=None):
         time_query = get_time_query(start, end, variable="log_table.time_done", has_and=False)
         if time_query:
-            q = f"""SELECT  topic, count(user_id) as num_done  FROM log_table 
+            q = f"""SELECT  topic, count(user_id) as num_done  FROM log_table
+            JOIN problem ON problem.name = log_table.exercise
             WHERE {time_query}
             GROUP BY topic ORDER BY num_done DESC 
             """
         else:
             q = f"""SELECT  topic, count(user_id) as num_done  FROM log_table 
+            JOIN problem ON problem.name = log_table.exercise
             GROUP BY topic ORDER BY num_done DESC """
         return self._query(q)
 
@@ -185,11 +208,13 @@ class Junyi:
         time_query = get_time_query(start, end, variable="log_table.time_done", has_and=False)
         if time_query:
             q = f"""SELECT  area, count(user_id) as num_done  FROM log_table 
+            JOIN problem ON problem.name = log_table.exercise
             WHERE {time_query}
             GROUP BY area ORDER BY num_done DESC 
             """
         else:
             q = f"""SELECT  area, count(user_id) as num_done  FROM log_table 
+            JOIN problem ON problem.name = log_table.exercise
             GROUP BY area ORDER BY num_done DESC """
         return self._query(q)
 

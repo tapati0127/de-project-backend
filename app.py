@@ -11,9 +11,7 @@ junyi = Junyi()
 def login():
     try:
         # Extract input data from the request
-        data = request.get_json()
-        if not data:
-            return jsonify({"error": "No data provided"}), 400
+        data = request.args
 
         username = data['username']
         password = data['password']
@@ -30,7 +28,7 @@ def login():
 def register():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -55,7 +53,7 @@ def register():
 def get_topics_by_area():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -71,7 +69,7 @@ def get_topics_by_area():
 def get_problems_by_area():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -83,11 +81,23 @@ def get_problems_by_area():
         return jsonify({"error": str(e)}), 500
 
 
+@app.route('/get_all_areas', methods=['GET'])
+def get_all_areas():
+    try:
+        # Extract input data from the request
+        data = request.args
+        problems = junyi.get_all_areas()
+        return jsonify(problems), 201
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
 @app.route('/get_problems_by_topic', methods=['GET'])
 def get_problems_by_topic():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -103,7 +113,7 @@ def get_problems_by_topic():
 def get_problems_by_names():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -119,11 +129,11 @@ def get_problems_by_names():
 def get_recent_problems_by_user_id():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
-        user_id = data['user_id']
+        user_id = int(data['user_id'])
         start = data.get("start", "")
         end = data.get("end", "")
         problems = junyi.get_recent_problems_by_user_id(user_id, start, end)
@@ -137,7 +147,7 @@ def get_recent_problems_by_user_id():
 def get_total_problem_correct_rate_by_user_id():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -155,7 +165,7 @@ def get_total_problem_correct_rate_by_user_id():
 def get_areas_correct_rate_by_user_id():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -173,7 +183,7 @@ def get_areas_correct_rate_by_user_id():
 def get_topics_correct_rate_by_user_id():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -187,17 +197,35 @@ def get_topics_correct_rate_by_user_id():
         return jsonify({"error": str(e)}), 500
 
 
+@app.route('/get_problems_correct_rate_by_user_id', methods=['GET'])
+def get_problems_correct_rate_by_user_id():
+    try:
+        # Extract input data from the request
+        data = request.args
+        if not data:
+            return jsonify({"error": "No data provided"}), 400
+
+        user_id = data['user_id']
+        start = data.get("start", "")
+        end = data.get("end", "")
+        problems = junyi.get_problems_correct_rate_by_user_id(user_id, start, end)
+        return jsonify(problems), 201
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
 @app.route('/write_log', methods=['POST'])
 def write_log():
     try:
         # Extract input data from the request
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
         user_id = data['user_id']
         exercise = data['exercise']
-        time_done = data['time_done']
+        time_done = int(datetime.now().timestamp()*1000000)
         time_taken = data['time_taken']
         correct = data['correct']
         junyi.write_log(user_id, exercise, time_done, time_taken, correct)
@@ -230,9 +258,7 @@ def statistic_cities():
 @app.route('/statistic_problems', methods=['GET'])
 def statistic_problems():
     try:
-        data = request.get_json()
-        if not data:
-            return jsonify({"error": "No data provided"}), 400
+        data = request.args
         start = data.get("start", "")
         end = data.get("end", "")
         res = junyi.statistic_problems(start, end)
@@ -245,9 +271,7 @@ def statistic_problems():
 @app.route('/statistic_topics', methods=['GET'])
 def statistic_topics():
     try:
-        data = request.get_json()
-        if not data:
-            return jsonify({"error": "No data provided"}), 400
+        data = request.args
         start = data.get("start", "")
         end = data.get("end", "")
         res = junyi.statistic_topics(start, end)
@@ -260,9 +284,7 @@ def statistic_topics():
 @app.route('/statistic_areas', methods=['GET'])
 def statistic_areas():
     try:
-        data = request.get_json()
-        if not data:
-            return jsonify({"error": "No data provided"}), 400
+        data = request.args
         start = data.get("start", "")
         end = data.get("end", "")
         res = junyi.statistic_areas(start, end)
@@ -275,7 +297,7 @@ def statistic_areas():
 @app.route('/statistic_correct_rate_by_exercise', methods=['GET'])
 def statistic_correct_rate_by_exercise():
     try:
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
         start = data.get("start", "")
@@ -291,7 +313,7 @@ def statistic_correct_rate_by_exercise():
 @app.route('/statistic_attempts_by_exercise', methods=['GET'])
 def statistic_attempts_by_exercise():
     try:
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
         start = data.get("start", "")
@@ -307,7 +329,7 @@ def statistic_attempts_by_exercise():
 @app.route('/statistic_time_taken_by_exercise', methods=['GET'])
 def statistic_time_taken_by_exercise():
     try:
-        data = request.get_json()
+        data = request.args
         if not data:
             return jsonify({"error": "No data provided"}), 400
         start = data.get("start", "")

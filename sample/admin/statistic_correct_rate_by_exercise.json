@@ -1,0 +1,49 @@
+{
+    "count": 11,
+    "results": [
+        {
+            "correct_rate": 0.0,
+            "num_user": 5972
+        },
+        {
+            "correct_rate": 0.2,
+            "num_user": 88
+        },
+        {
+            "correct_rate": 0.7,
+            "num_user": 3489
+        },
+        {
+            "correct_rate": 0.1,
+            "num_user": 71
+        },
+        {
+            "correct_rate": 1.0,
+            "num_user": 31167
+        },
+        {
+            "correct_rate": 0.6,
+            "num_user": 597
+        },
+        {
+            "correct_rate": 0.8,
+            "num_user": 5044
+        },
+        {
+            "correct_rate": 0.5,
+            "num_user": 1361
+        },
+        {
+            "correct_rate": 0.4,
+            "num_user": 179
+        },
+        {
+            "correct_rate": 0.9,
+            "num_user": 13859
+        },
+        {
+            "correct_rate": 0.3,
+            "num_user": 814
+        }
+    ]
+}

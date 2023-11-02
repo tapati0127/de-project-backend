@@ -1,0 +1,165 @@
+{
+    "count": 40,
+    "results": [
+        {
+            "num_done": 6058994,
+            "topic": "addition-subtraction"
+        },
+        {
+            "num_done": 3308266,
+            "topic": "multiplication-division"
+        },
+        {
+            "num_done": 2075694,
+            "topic": "telling-time"
+        },
+        {
+            "num_done": 1621329,
+            "topic": "fractions"
+        },
+        {
+            "num_done": 1615852,
+            "topic": "factors-multiples"
+        },
+        {
+            "num_done": 1546697,
+            "topic": "absolute-value"
+        },
+        {
+            "num_done": 1524296,
+            "topic": "decimals"
+        },
+        {
+            "num_done": 841635,
+            "topic": "basic-geometry"
+        },
+        {
+            "num_done": 749385,
+            "topic": "exponents-radicals"
+        },
+        {
+            "num_done": 702576,
+            "topic": "order-of-operations"
+        },
+        {
+            "num_done": 685085,
+            "topic": "segments-and-angles"
+        },
+        {
+            "num_done": 598474,
+            "topic": "solving-linear-equations-and-inequalities"
+        },
+        {
+            "num_done": 559862,
+            "topic": "area-perimeter-and-volume"
+        },
+        {
+            "num_done": 503637,
+            "topic": "statistics"
+        },
+        {
+            "num_done": 410945,
+            "topic": "transformations"
+        },
+        {
+            "num_done": 318209,
+            "topic": "rates-and-ratios"
+        },
+        {
+            "num_done": 308474,
+            "topic": "parallel-and-perpendicular-lines"
+        },
+        {
+            "num_done": 259366,
+            "topic": "unit-conversion"
+        },
+        {
+            "num_done": 249717,
+            "topic": "polynomials"
+        },
+        {
+            "num_done": 224079,
+            "topic": "triangle-properties"
+        },
+        {
+            "num_done": 184210,
+            "topic": "ratio-percentage"
+        },
+        {
+            "num_done": 174450,
+            "topic": "congruent-triangles"
+        },
+        {
+            "num_done": 171675,
+            "topic": "quadrilaterals-and-polygons"
+        },
+        {
+            "num_done": 153382,
+            "topic": "calculus"
+        },
+        {
+            "num_done": 129233,
+            "topic": "algebra-functions"
+        },
+        {
+            "num_done": 124589,
+            "topic": "similar-triangle"
+        },
+        {
+            "num_done": 116782,
+            "topic": "pythagorean-theorem"
+        },
+        {
+            "num_done": 110636,
+            "topic": "probability"
+        },
+        {
+            "num_done": 109043,
+            "topic": "linear-equations-and-inequalitie"
+        },
+        {
+            "num_done": 107080,
+            "topic": "circle-properties"
+        },
+        {
+            "num_done": 80522,
+            "topic": "systems-of-eq-and-ineq"
+        },
+        {
+            "num_done": 73428,
+            "topic": "quadtratics"
+        },
+        {
+            "num_done": 53534,
+            "topic": "logical-reasoning"
+        },
+        {
+            "num_done": 48239,
+            "topic": "complex-numbers"
+        },
+        {
+            "num_done": 38759,
+            "topic": "trigonometry"
+        },
+        {
+            "num_done": 30684,
+            "topic": "biology"
+        },
+        {
+            "num_done": 24834,
+            "topic": "vectors-matrix"
+        },
+        {
+            "num_done": 21294,
+            "topic": "conic-sections"
+        },
+        {
+            "num_done": 11041,
+            "topic": "sequence_and_series"
+        },
+        {
+            "num_done": 16,
+            "topic": "N/A"
+        }
+    ]
+}

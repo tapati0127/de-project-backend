@@ -1,0 +1,33 @@
+{
+    "count": 7,
+    "results": [
+        {
+            "area": "arithmetic",
+            "num_done": 6031103
+        },
+        {
+            "area": "algebra",
+            "num_done": 1271926
+        },
+        {
+            "area": "geometry",
+            "num_done": 962545
+        },
+        {
+            "area": "probability-statistics",
+            "num_done": 223193
+        },
+        {
+            "area": "analytic-geometry",
+            "num_done": 208657
+        },
+        {
+            "area": "calculus",
+            "num_done": 49013
+        },
+        {
+            "area": "logics",
+            "num_done": 17233
+        }
+    ]
+}

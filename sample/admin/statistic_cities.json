@@ -1,0 +1,85 @@
+{
+    "count": 20,
+    "results": [
+        {
+            "num_user": 42763,
+            "user_city": "tp"
+        },
+        {
+            "num_user": 36890,
+            "user_city": "ntpc"
+        },
+        {
+            "num_user": 36140,
+            "user_city": "tc"
+        },
+        {
+            "num_user": 26201,
+            "user_city": "ty"
+        },
+        {
+            "num_user": 23696,
+            "user_city": "kh"
+        },
+        {
+            "num_user": 13466,
+            "user_city": "tn"
+        },
+        {
+            "num_user": 8640,
+            "user_city": "ylc"
+        },
+        {
+            "num_user": 8009,
+            "user_city": "hc"
+        },
+        {
+            "num_user": 7884,
+            "user_city": "chc"
+        },
+        {
+            "num_user": 7164,
+            "user_city": "ptc"
+        },
+        {
+            "num_user": 5901,
+            "user_city": "ntct"
+        },
+        {
+            "num_user": 5854,
+            "user_city": "ml"
+        },
+        {
+            "num_user": 5253,
+            "user_city": "ilc"
+        },
+        {
+            "num_user": 4775,
+            "user_city": "cy"
+        },
+        {
+            "num_user": 4743,
+            "user_city": "ttct"
+        },
+        {
+            "num_user": 4726,
+            "user_city": "hlc"
+        },
+        {
+            "num_user": 2142,
+            "user_city": "km"
+        },
+        {
+            "num_user": 1603,
+            "user_city": "kl"
+        },
+        {
+            "num_user": 1594,
+            "user_city": "phc"
+        },
+        {
+            "num_user": 163,
+            "user_city": "lj"
+        }
+    ]
+}

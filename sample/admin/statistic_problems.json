@@ -1,0 +1,2897 @@
+{
+    "count": 723,
+    "results": [
+        {
+            "exercise": "addition_1",
+            "num_user": 895736
+        },
+        {
+            "exercise": "number_line",
+            "num_user": 748359
+        },
+        {
+            "exercise": "representing_numbers",
+            "num_user": 586342
+        },
+        {
+            "exercise": "telling_time_0.5",
+            "num_user": 544691
+        },
+        {
+            "exercise": "subtraction_1",
+            "num_user": 527707
+        },
+        {
+            "exercise": "multiplication_0.5",
+            "num_user": 508641
+        },
+        {
+            "exercise": "multiplication_1",
+            "num_user": 432737
+        },
+        {
+            "exercise": "subtraction_2",
+            "num_user": 402323
+        },
+        {
+            "exercise": "telling_time",
+            "num_user": 374488
+        },
+        {
+            "exercise": "arithmetic_word_problems_1",
+            "num_user": 373888
+        },
+        {
+            "exercise": "division_0.5",
+            "num_user": 286250
+        },
+        {
+            "exercise": "telling_time_2",
+            "num_user": 274608
+        },
+        {
+            "exercise": "addition_2",
+            "num_user": 268922
+        },
+        {
+            "exercise": "number_line_2",
+            "num_user": 264853
+        },
+        {
+            "exercise": "count_one_by_one_1",
+            "num_user": 243516
+        },
+        {
+            "exercise": "writing_fractions_1",
+            "num_user": 237669
+        },
+        {
+            "exercise": "multiplication_1.5",
+            "num_user": 232765
+        },
+        {
+            "exercise": "prime_numbers",
+            "num_user": 229722
+        },
+        {
+            "exercise": "divisibility_intuition",
+            "num_user": 229070
+        },
+        {
+            "exercise": "subtraction_3",
+            "num_user": 226713
+        },
+        {
+            "exercise": "addition_4",
+            "num_user": 226206
+        },
+        {
+            "exercise": "multiplication_2",
+            "num_user": 221412
+        },
+        {
+            "exercise": "number_line_3",
+            "num_user": 221063
+        },
+        {
+            "exercise": "division_0.9",
+            "num_user": 212380
+        },
+        {
+            "exercise": "division_1",
+            "num_user": 200577
+        },
+        {
+            "exercise": "decimals_on_the_number_line_1",
+            "num_user": 191565
+        },
+        {
+            "exercise": "adding_and_subtracting_negative_numbers",
+            "num_user": 181133
+        },
+        {
+            "exercise": "number_properties_terminology_1",
+            "num_user": 180648
+        },
+        {
+            "exercise": "recognizing_rays_lines_and_line_segments",
+            "num_user": 180417
+        },
+        {
+            "exercise": "subtraction_4",
+            "num_user": 175470
+        },
+        {
+            "exercise": "time_terminology",
+            "num_user": 174875
+        },
+        {
+            "exercise": "divisibility_tests",
+            "num_user": 174414
+        },
+        {
+            "exercise": "axis_of_symmetry",
+            "num_user": 166488
+        },
+        {
+            "exercise": "measuring_angles",
+            "num_user": 164287
+        },
+        {
+            "exercise": "prime_factorization",
+            "num_user": 157568
+        },
+        {
+            "exercise": "understand_coins",
+            "num_user": 154922
+        },
+        {
+            "exercise": "divisibility_0.5",
+            "num_user": 154635
+        },
+        {
+            "exercise": "properties_of_numbers_1",
+            "num_user": 148970
+        },
+        {
+            "exercise": "distributive_property",
+            "num_user": 146255
+        },
+        {
+            "exercise": "decimals_on_the_number_line_2",
+            "num_user": 144036
+        },
+        {
+            "exercise": "ordering_negative_numbers",
+            "num_user": 143838
+        },
+        {
+            "exercise": "composite_numbers",
+            "num_user": 142092
+        },
+        {
+            "exercise": "division_1.4",
+            "num_user": 139955
+        },
+        {
+            "exercise": "division_1.5",
+            "num_user": 138822
+        },
+        {
+            "exercise": "telling_time_comparing",
+            "num_user": 137597
+        },
+        {
+            "exercise": "exponents_1",
+            "num_user": 137365
+        },
+        {
+            "exercise": "greatest_common_divisor",
+            "num_user": 132684
+        },
+        {
+            "exercise": "multiplication_3",
+            "num_user": 132186
+        },
+        {
+            "exercise": "adding_negative_numbers",
+            "num_user": 129099
+        },
+        {
+            "exercise": "area_of_parallelograms",
+            "num_user": 125272
+        },
+        {
+            "exercise": "sides_and_angles_of_simple_shapes",
+            "num_user": 123932
+        },
+        {
+            "exercise": "quadrilateral_types",
+            "num_user": 122335
+        },
+        {
+            "exercise": "limits_1",
+            "num_user": 121551
+        },
+        {
+            "exercise": "arithmetic_word_problems_2",
+            "num_user": 121426
+        },
+        {
+            "exercise": "one_more_one_less",
+            "num_user": 121378
+        },
+        {
+            "exercise": "judging_axis_of_symmetry",
+            "num_user": 119174
+        },
+        {
+            "exercise": "dividing_decimals_0.5",
+            "num_user": 114759
+        },
+        {
+            "exercise": "number_within_fifty",
+            "num_user": 109932
+        },
+        {
+            "exercise": "triangle_types",
+            "num_user": 109501
+        },
+        {
+            "exercise": "absolute_value",
+            "num_user": 106815
+        },
+        {
+            "exercise": "least_common_multiple",
+            "num_user": 106804
+        },
+        {
+            "exercise": "count_number_to_100",
+            "num_user": 106535
+        },
+        {
+            "exercise": "time_word_problem_2",
+            "num_user": 105964
+        },
+        {
+            "exercise": "count_numbers",
+            "num_user": 105569
+        },
+        {
+            "exercise": "recognizing_fractions_0.5",
+            "num_user": 103746
+        },
+        {
+            "exercise": "time_word_problem_1",
+            "num_user": 103643
+        },
+        {
+            "exercise": "radius_and_diameter",
+            "num_user": 100868
+        },
+        {
+            "exercise": "finding_axis_of_symmetry",
+            "num_user": 98982
+        },
+        {
+            "exercise": "negative_number_word_problems",
+            "num_user": 98527
+        },
+        {
+            "exercise": "separation_and_union",
+            "num_user": 98292
+        },
+        {
+            "exercise": "order_of_operations",
+            "num_user": 97953
+        },
+        {
+            "exercise": "adding_decimals_0.5",
+            "num_user": 97767
+        },
+        {
+            "exercise": "angle_types",
+            "num_user": 97756
+        },
+        {
+            "exercise": "division_2",
+            "num_user": 97530
+        },
+        {
+            "exercise": "expressing_ratios_as_fractions",
+            "num_user": 97473
+        },
+        {
+            "exercise": "number_sequence_within_ten",
+            "num_user": 97279
+        },
+        {
+            "exercise": "perimeter_1",
+            "num_user": 94910
+        },
+        {
+            "exercise": "divisibility",
+            "num_user": 94215
+        },
+        {
+            "exercise": "adding_subtracting_carry_3",
+            "num_user": 92464
+        },
+        {
+            "exercise": "comparison_between_numbers_within_ten",
+            "num_user": 89939
+        },
+        {
+            "exercise": "division_word_problems_1",
+            "num_user": 87539
+        },
+        {
+            "exercise": "adding_and_subtracting_within_20",
+            "num_user": 86330
+        },
+        {
+            "exercise": "division_2.9",
+            "num_user": 84830
+        },
+        {
+            "exercise": "area_1",
+            "num_user": 84242
+        },
+        {
+            "exercise": "square_roots",
+            "num_user": 84178
+        },
+        {
+            "exercise": "multiplying_and_dividing_negative_numbers",
+            "num_user": 83603
+        },
+        {
+            "exercise": "multiplication_4",
+            "num_user": 80727
+        },
+        {
+            "exercise": "number_line_4",
+            "num_user": 80488
+        },
+        {
+            "exercise": "pythagorean_theorem_1",
+            "num_user": 79763
+        },
+        {
+            "exercise": "adding_decimals",
+            "num_user": 79010
+        },
+        {
+            "exercise": "converting_decimals_to_percents",
+            "num_user": 78926
+        },
+        {
+            "exercise": "reading_tables_1",
+            "num_user": 78388
+        },
+        {
+            "exercise": "division_3",
+            "num_user": 76534
+        },
+        {
+            "exercise": "properties_of_numbers_2",
+            "num_user": 76243
+        },
+        {
+            "exercise": "comparing_absolute_values",
+            "num_user": 75024
+        },
+        {
+            "exercise": "equivalent_fractions",
+            "num_user": 73694
+        },
+        {
+            "exercise": "simplifying_fractions",
+            "num_user": 73419
+        },
+        {
+            "exercise": "recognizing_fractions",
+            "num_user": 73353
+        },
+        {
+            "exercise": "congruent_triangles_1",
+            "num_user": 71916
+        },
+        {
+            "exercise": "reading_bar_charts_1",
+            "num_user": 71839
+        },
+        {
+            "exercise": "time_word_problem_3",
+            "num_user": 69502
+        },
+        {
+            "exercise": "arithmetic_word_problems",
+            "num_user": 69058
+        },
+        {
+            "exercise": "areas_of_trapezoids",
+            "num_user": 68127
+        },
+        {
+            "exercise": "fractions_on_the_number_line_1",
+            "num_user": 66798
+        },
+        {
+            "exercise": "evaluating_expressions_1",
+            "num_user": 66446
+        },
+        {
+            "exercise": "place_value",
+            "num_user": 65378
+        },
+        {
+            "exercise": "scientific_notation_intuition",
+            "num_user": 64836
+        },
+        {
+            "exercise": "converting_percents_to_decimals",
+            "num_user": 64611
+        },
+        {
+            "exercise": "estimation_three-digit_add_sub",
+            "num_user": 64564
+        },
+        {
+            "exercise": "adding_fractions_with_common_denominators",
+            "num_user": 64236
+        },
+        {
+            "exercise": "least_common_multiple_and_greatest_common_divisor_word_problems",
+            "num_user": 63282
+        },
+        {
+            "exercise": "counting_1",
+            "num_user": 62628
+        },
+        {
+            "exercise": "rounding_numbers",
+            "num_user": 60570
+        },
+        {
+            "exercise": "reading_fractions_in_chinese",
+            "num_user": 59861
+        },
+        {
+            "exercise": "linear_equations_1",
+            "num_user": 59765
+        },
+        {
+            "exercise": "similar_triangles_1",
+            "num_user": 57731
+        },
+        {
+            "exercise": "area_of_triangles_1",
+            "num_user": 57218
+        },
+        {
+            "exercise": "time_word_problem_4",
+            "num_user": 56225
+        },
+        {
+            "exercise": "dividing_decimals_1",
+            "num_user": 56101
+        },
+        {
+            "exercise": "understanding_decimals_place_value",
+            "num_user": 55889
+        },
+        {
+            "exercise": "dividing_fractions_0.5",
+            "num_user": 54006
+        },
+        {
+            "exercise": "application_add_large_nums",
+            "num_user": 53764
+        },
+        {
+            "exercise": "metric_weight_unit_selection",
+            "num_user": 53470
+        },
+        {
+            "exercise": "multiplying_fractions_0.5",
+            "num_user": 53194
+        },
+        {
+            "exercise": "subtracting_fractions_with_common_denominators",
+            "num_user": 52927
+        },
+        {
+            "exercise": "combining_like_terms_1",
+            "num_user": 52627
+        },
+        {
+            "exercise": "congruency_postulates",
+            "num_user": 51553
+        },
+        {
+            "exercise": "date_and_weekday",
+            "num_user": 51311
+        },
+        {
+            "exercise": "multiplying_decimals",
+            "num_user": 51192
+        },
+        {
+            "exercise": "equivalent_fractions_2",
+            "num_user": 51064
+        },
+        {
+            "exercise": "time_units_transformation_1",
+            "num_user": 50881
+        },
+        {
+            "exercise": "reading_bar_charts_2",
+            "num_user": 50656
+        },
+        {
+            "exercise": "rounding_whole_numbers",
+            "num_user": 50301
+        },
+        {
+            "exercise": "corresponding_angles",
+            "num_user": 49360
+        },
+        {
+            "exercise": "alternate_interior_angles",
+            "num_user": 48382
+        },
+        {
+            "exercise": "subtracting_decimals_0.5",
+            "num_user": 47872
+        },
+        {
+            "exercise": "reading_line_charts_1",
+            "num_user": 47856
+        },
+        {
+            "exercise": "perimeter_of_squares_and_rectangles",
+            "num_user": 47510
+        },
+        {
+            "exercise": "scientific_notation",
+            "num_user": 47202
+        },
+        {
+            "exercise": "exponents_2",
+            "num_user": 46847
+        },
+        {
+            "exercise": "division_word_problems_2",
+            "num_user": 46534
+        },
+        {
+            "exercise": "writing_expressions_1",
+            "num_user": 46376
+        },
+        {
+            "exercise": "parts_of_circles",
+            "num_user": 46169
+        },
+        {
+            "exercise": "ratio_word_problems",
+            "num_user": 46001
+        },
+        {
+            "exercise": "division_4",
+            "num_user": 45875
+        },
+        {
+            "exercise": "adding_and_subtracting_polynomials",
+            "num_user": 45611
+        },
+        {
+            "exercise": "area_of_squares_and_rectangles",
+            "num_user": 45428
+        },
+        {
+            "exercise": "comparing_fractions_2",
+            "num_user": 45265
+        },
+        {
+            "exercise": "comparing_fractions_1",
+            "num_user": 45200
+        },
+        {
+            "exercise": "addition_3",
+            "num_user": 45141
+        },
+        {
+            "exercise": "adding_decimals_2",
+            "num_user": 44857
+        },
+        {
+            "exercise": "morning_afternoon_night",
+            "num_user": 44682
+        },
+        {
+            "exercise": "understanding_moving_the_decimal",
+            "num_user": 44367
+        },
+        {
+            "exercise": "points_lines_and_planes",
+            "num_user": 44204
+        },
+        {
+            "exercise": "simplifying_radicals",
+            "num_user": 42817
+        },
+        {
+            "exercise": "dividing_fractions",
+            "num_user": 42467
+        },
+        {
+            "exercise": "alternate_exterior_angles",
+            "num_user": 41980
+        },
+        {
+            "exercise": "same_side_interior_angles",
+            "num_user": 41528
+        },
+        {
+            "exercise": "metric_area_unit_conversion",
+            "num_user": 40841
+        },
+        {
+            "exercise": "areas_of_kites",
+            "num_user": 40553
+        },
+        {
+            "exercise": "one_step_equations",
+            "num_user": 40186
+        },
+        {
+            "exercise": "multiplying_fractions",
+            "num_user": 39872
+        },
+        {
+            "exercise": "linear_equations_2",
+            "num_user": 39832
+        },
+        {
+            "exercise": "perimeter_of_combined_shapes",
+            "num_user": 39158
+        },
+        {
+            "exercise": "the_fundamental_theorem_of_arithmetic",
+            "num_user": 39099
+        },
+        {
+            "exercise": "rate_problems_0.5",
+            "num_user": 39018
+        },
+        {
+            "exercise": "subtracting_decimals",
+            "num_user": 38940
+        },
+        {
+            "exercise": "recognize_num_less_than_10000",
+            "num_user": 38867
+        },
+        {
+            "exercise": "time_units_transformation_2",
+            "num_user": 36686
+        },
+        {
+            "exercise": "estimation_with_decimals",
+            "num_user": 36194
+        },
+        {
+            "exercise": "reading_tables_2",
+            "num_user": 36047
+        },
+        {
+            "exercise": "fraction_word_problems_1",
+            "num_user": 35980
+        },
+        {
+            "exercise": "adding_fractions",
+            "num_user": 35860
+        },
+        {
+            "exercise": "definition_opposite_number",
+            "num_user": 35716
+        },
+        {
+            "exercise": "l_ml_transform",
+            "num_user": 35578
+        },
+        {
+            "exercise": "addition_two_numbers",
+            "num_user": 35514
+        },
+        {
+            "exercise": "converting_mixed_numbers_and_improper_fractions",
+            "num_user": 35194
+        },
+        {
+            "exercise": "writing_proportions",
+            "num_user": 34987
+        },
+        {
+            "exercise": "area_of_a_circle",
+            "num_user": 34968
+        },
+        {
+            "exercise": "multiplying_fractions_word_problems",
+            "num_user": 34752
+        },
+        {
+            "exercise": "meters_and_centimeters",
+            "num_user": 34598
+        },
+        {
+            "exercise": "comparing_improper_fractions_and_mixed_numbers",
+            "num_user": 34439
+        },
+        {
+            "exercise": "dividing_decimals",
+            "num_user": 33969
+        },
+        {
+            "exercise": "dividing_fractions_word_problems",
+            "num_user": 33629
+        },
+        {
+            "exercise": "graphing_points",
+            "num_user": 33623
+        },
+        {
+            "exercise": "functions_1",
+            "num_user": 33333
+        },
+        {
+            "exercise": "dividing_decimals_2",
+            "num_user": 33177
+        },
+        {
+            "exercise": "adding_and_subtracting_decimals_word_problems",
+            "num_user": 32787
+        },
+        {
+            "exercise": "time_units_transformation_3",
+            "num_user": 32519
+        },
+        {
+            "exercise": "multiplying_and_dividing_scientific_notation",
+            "num_user": 32206
+        },
+        {
+            "exercise": "measuring_and_comparing_angles",
+            "num_user": 32164
+        },
+        {
+            "exercise": "imaginary_unit_powers",
+            "num_user": 31830
+        },
+        {
+            "exercise": "same_side_exterior_angles",
+            "num_user": 31480
+        },
+        {
+            "exercise": "metric_weight_unit_conversion",
+            "num_user": 31135
+        },
+        {
+            "exercise": "absolute_values_meaning",
+            "num_user": 30816
+        },
+        {
+            "exercise": "creating_bar_charts_1",
+            "num_user": 30658
+        },
+        {
+            "exercise": "coordination_bctest_cap",
+            "num_user": 30387
+        },
+        {
+            "exercise": "measuring_segments",
+            "num_user": 30103
+        },
+        {
+            "exercise": "metric_area_unit_comparison",
+            "num_user": 30024
+        },
+        {
+            "exercise": "reading_pictographs_1",
+            "num_user": 29933
+        },
+        {
+            "exercise": "converting_fractions_to_decimals",
+            "num_user": 29750
+        },
+        {
+            "exercise": "integers_multiply_decimals2",
+            "num_user": 29669
+        },
+        {
+            "exercise": "represent_by_symbol_multiplier",
+            "num_user": 29398
+        },
+        {
+            "exercise": "direct_and_inverse_variation",
+            "num_user": 29396
+        },
+        {
+            "exercise": "surface_area_of_rectangular_boxes",
+            "num_user": 29091
+        },
+        {
+            "exercise": "reading_pictographs_2",
+            "num_user": 28987
+        },
+        {
+            "exercise": "combining_like_terms_2",
+            "num_user": 28736
+        },
+        {
+            "exercise": "square_roots_2",
+            "num_user": 28548
+        },
+        {
+            "exercise": "areas_of_rhombi",
+            "num_user": 28314
+        },
+        {
+            "exercise": "congruent_segments",
+            "num_user": 28256
+        },
+        {
+            "exercise": "lcm_word_problems",
+            "num_user": 28181
+        },
+        {
+            "exercise": "volume_of_rectangular_boxes_3",
+            "num_user": 27885
+        },
+        {
+            "exercise": "millimeter_and_centimeter",
+            "num_user": 27800
+        },
+        {
+            "exercise": "volume_unit_conversion",
+            "num_user": 27527
+        },
+        {
+            "exercise": "volume_of_rectangular_boxes",
+            "num_user": 27517
+        },
+        {
+            "exercise": "application_division_large_nums",
+            "num_user": 27290
+        },
+        {
+            "exercise": "sectors_as_fraction_of_circles_1",
+            "num_user": 26738
+        },
+        {
+            "exercise": "linear_equations_3",
+            "num_user": 26623
+        },
+        {
+            "exercise": "symmetry_concept_and_application",
+            "num_user": 26301
+        },
+        {
+            "exercise": "angles_of_a_polygon",
+            "num_user": 26080
+        },
+        {
+            "exercise": "adding_subtracting_no_carry_3",
+            "num_user": 26057
+        },
+        {
+            "exercise": "operations_with_negative_numbers",
+            "num_user": 26052
+        },
+        {
+            "exercise": "vertical_angles",
+            "num_user": 25935
+        },
+        {
+            "exercise": "adding_and_subtracting_fractions",
+            "num_user": 25848
+        },
+        {
+            "exercise": "parallel_lines_1",
+            "num_user": 25530
+        },
+        {
+            "exercise": "gcd_of_life",
+            "num_user": 25013
+        },
+        {
+            "exercise": "similar_triangles_2",
+            "num_user": 24981
+        },
+        {
+            "exercise": "exploring_mean_and_median",
+            "num_user": 24936
+        },
+        {
+            "exercise": "add_subtract_negative_fractions",
+            "num_user": 24640
+        },
+        {
+            "exercise": "hundred_million_adding_and_subtracting",
+            "num_user": 24606
+        },
+        {
+            "exercise": "exponent_rules",
+            "num_user": 24504
+        },
+        {
+            "exercise": "multiplying_mixed_numbers_1",
+            "num_user": 23353
+        },
+        {
+            "exercise": "inscribed_angles_1",
+            "num_user": 23203
+        },
+        {
+            "exercise": "multiplication_word_problems",
+            "num_user": 23128
+        },
+        {
+            "exercise": "integers_multiply_decimals",
+            "num_user": 23003
+        },
+        {
+            "exercise": "perimeter_deduction",
+            "num_user": 22955
+        },
+        {
+            "exercise": "radius_diameter_and_circumference",
+            "num_user": 22806
+        },
+        {
+            "exercise": "triangle_angles_1",
+            "num_user": 22793
+        },
+        {
+            "exercise": "distance_formula",
+            "num_user": 22542
+        },
+        {
+            "exercise": "graphing_points_2",
+            "num_user": 22275
+        },
+        {
+            "exercise": "congruent_angles",
+            "num_user": 22236
+        },
+        {
+            "exercise": "exponents_3",
+            "num_user": 22008
+        },
+        {
+            "exercise": "angles_1",
+            "num_user": 21947
+        },
+        {
+            "exercise": "fractions_on_the_number_line_2",
+            "num_user": 21908
+        },
+        {
+            "exercise": "radius_diameter_and_circumference_314_1",
+            "num_user": 21793
+        },
+        {
+            "exercise": "understand_circle",
+            "num_user": 21687
+        },
+        {
+            "exercise": "factoring_polynomials_1",
+            "num_user": 21191
+        },
+        {
+            "exercise": "counting_2",
+            "num_user": 21059
+        },
+        {
+            "exercise": "reading_stem_and_leaf_plots",
+            "num_user": 20718
+        },
+        {
+            "exercise": "volume_box",
+            "num_user": 20638
+        },
+        {
+            "exercise": "triangle_angles_sum",
+            "num_user": 20565
+        },
+        {
+            "exercise": "meaning_congruent_planar_graph",
+            "num_user": 20565
+        },
+        {
+            "exercise": "multiplication_formula_1",
+            "num_user": 20475
+        },
+        {
+            "exercise": "functions_2",
+            "num_user": 19877
+        },
+        {
+            "exercise": "adding_and_subtracting_radicals",
+            "num_user": 19553
+        },
+        {
+            "exercise": "get_gcd_and_lcm",
+            "num_user": 19412
+        },
+        {
+            "exercise": "scientific_notation_decimals",
+            "num_user": 19230
+        },
+        {
+            "exercise": "applications_of_index",
+            "num_user": 19137
+        },
+        {
+            "exercise": "congruent_triangles_2",
+            "num_user": 19077
+        },
+        {
+            "exercise": "multiplying_radicals",
+            "num_user": 18925
+        },
+        {
+            "exercise": "quadrilateral_angles",
+            "num_user": 18793
+        },
+        {
+            "exercise": "kg_g_unit_transform",
+            "num_user": 18696
+        },
+        {
+            "exercise": "triangle_inequality_theorem",
+            "num_user": 18625
+        },
+        {
+            "exercise": "inequalities_on_a_number_line",
+            "num_user": 18471
+        },
+        {
+            "exercise": "gcd_and_lcm_word_problems",
+            "num_user": 18047
+        },
+        {
+            "exercise": "time_word_problem_5",
+            "num_user": 18022
+        },
+        {
+            "exercise": "subtraction_and_addition",
+            "num_user": 17769
+        },
+        {
+            "exercise": "multiplication_formula_add",
+            "num_user": 17641
+        },
+        {
+            "exercise": "solutions_to_systems_of_equations",
+            "num_user": 17410
+        },
+        {
+            "exercise": "narrative_and_opposite_narrative",
+            "num_user": 17366
+        },
+        {
+            "exercise": "integer_arithmetic",
+            "num_user": 17277
+        },
+        {
+            "exercise": "absolute_value_add_sub",
+            "num_user": 16915
+        },
+        {
+            "exercise": "understanding_comparing_angle",
+            "num_user": 16904
+        },
+        {
+            "exercise": "new_definitions_1",
+            "num_user": 16899
+        },
+        {
+            "exercise": "multiplying_expressions_0.5",
+            "num_user": 16795
+        },
+        {
+            "exercise": "common_form_for_life",
+            "num_user": 16660
+        },
+        {
+            "exercise": "ordering_fractions",
+            "num_user": 16658
+        },
+        {
+            "exercise": "proportions_1",
+            "num_user": 16466
+        },
+        {
+            "exercise": "subtracting_fractions",
+            "num_user": 16449
+        },
+        {
+            "exercise": "reading_bar_charts_3",
+            "num_user": 16400
+        },
+        {
+            "exercise": "angle_rotation",
+            "num_user": 16212
+        },
+        {
+            "exercise": "converting_decimals_to_fractions_1",
+            "num_user": 16124
+        },
+        {
+            "exercise": "percentage_word_problems_1",
+            "num_user": 15765
+        },
+        {
+            "exercise": "count_number_to_20_2",
+            "num_user": 15434
+        },
+        {
+            "exercise": "complementary_angles",
+            "num_user": 15354
+        },
+        {
+            "exercise": "simplify_the_root_type",
+            "num_user": 15024
+        },
+        {
+            "exercise": "supplementary_angles",
+            "num_user": 14985
+        },
+        {
+            "exercise": "speed_equal_to_distance_divide_time",
+            "num_user": 14937
+        },
+        {
+            "exercise": "understand_large_numbers_and_conversion",
+            "num_user": 14829
+        },
+        {
+            "exercise": "solving_quadratics_by_factoring",
+            "num_user": 14767
+        },
+        {
+            "exercise": "multiplying_and_dividing",
+            "num_user": 14604
+        },
+        {
+            "exercise": "radical_equations",
+            "num_user": 14588
+        },
+        {
+            "exercise": "addition_within_20",
+            "num_user": 14457
+        },
+        {
+            "exercise": "metric_weight_unit_word_problem",
+            "num_user": 14271
+        },
+        {
+            "exercise": "solid_geometry",
+            "num_user": 14234
+        },
+        {
+            "exercise": "fractions_on_the_number_line_3",
+            "num_user": 14154
+        },
+        {
+            "exercise": "angles_2",
+            "num_user": 14132
+        },
+        {
+            "exercise": "application_of_scientific_notation",
+            "num_user": 14069
+        },
+        {
+            "exercise": "multiplying_polynomials",
+            "num_user": 13926
+        },
+        {
+            "exercise": "age_word_problems",
+            "num_user": 13795
+        },
+        {
+            "exercise": "volume_and_cc",
+            "num_user": 13763
+        },
+        {
+            "exercise": "converse_inverse_and_contrapositive",
+            "num_user": 13670
+        },
+        {
+            "exercise": "recognize_graph_zoom_effect",
+            "num_user": 13507
+        },
+        {
+            "exercise": "multiplying_expressions_1",
+            "num_user": 13433
+        },
+        {
+            "exercise": "limits_2",
+            "num_user": 13364
+        },
+        {
+            "exercise": "discount_tax_and_tip_word_problems",
+            "num_user": 13256
+        },
+        {
+            "exercise": "radius_diameter_and_circumference_1",
+            "num_user": 13138
+        },
+        {
+            "exercise": "cube_roots",
+            "num_user": 13072
+        },
+        {
+            "exercise": "l_ml_word_problem",
+            "num_user": 13056
+        },
+        {
+            "exercise": "one_step_equation_problems",
+            "num_user": 13037
+        },
+        {
+            "exercise": "systems_of_equations_with_substitution",
+            "num_user": 13022
+        },
+        {
+            "exercise": "evaluating_expressions_2",
+            "num_user": 12702
+        },
+        {
+            "exercise": "significant_figures_1",
+            "num_user": 12665
+        },
+        {
+            "exercise": "plotting_the_line_of_best_fit",
+            "num_user": 12664
+        },
+        {
+            "exercise": "pyramidal_prism",
+            "num_user": 12582
+        },
+        {
+            "exercise": "understanding_km",
+            "num_user": 12138
+        },
+        {
+            "exercise": "kg_g_unit_transform2",
+            "num_user": 12021
+        },
+        {
+            "exercise": "understand_equivalent_axiom",
+            "num_user": 12000
+        },
+        {
+            "exercise": "proportional_or_inverse_proportional",
+            "num_user": 11980
+        },
+        {
+            "exercise": "logical_arguments_deductive_reasoning",
+            "num_user": 11960
+        },
+        {
+            "exercise": "linear_equations_4",
+            "num_user": 11939
+        },
+        {
+            "exercise": "polynomial_concept_and_proper_noun",
+            "num_user": 11911
+        },
+        {
+            "exercise": "volume_of_rectangular_boxes_2",
+            "num_user": 11902
+        },
+        {
+            "exercise": "factoring_difference_of_squares_1",
+            "num_user": 11847
+        },
+        {
+            "exercise": "identifying_points_1",
+            "num_user": 11658
+        },
+        {
+            "exercise": "exploring_angle_pairs_1",
+            "num_user": 11553
+        },
+        {
+            "exercise": "position_relation_between_circle_point",
+            "num_user": 11461
+        },
+        {
+            "exercise": "volume_space",
+            "num_user": 11385
+        },
+        {
+            "exercise": "complementary_and_supplementary_angles",
+            "num_user": 11220
+        },
+        {
+            "exercise": "recognize_decimal_percentile_position",
+            "num_user": 11095
+        },
+        {
+            "exercise": "recognizing_conic_sections",
+            "num_user": 11090
+        },
+        {
+            "exercise": "solving_linear_equations",
+            "num_user": 10937
+        },
+        {
+            "exercise": "simplifying_expressions_with_exponents",
+            "num_user": 10905
+        },
+        {
+            "exercise": "adding_subtracting_carry_2",
+            "num_user": 10739
+        },
+        {
+            "exercise": "number_line_0.5",
+            "num_user": 10589
+        },
+        {
+            "exercise": "graphing_systems_of_equations",
+            "num_user": 10535
+        },
+        {
+            "exercise": "understand_length_unit",
+            "num_user": 10419
+        },
+        {
+            "exercise": "exponents_4",
+            "num_user": 10365
+        },
+        {
+            "exercise": "addition_of_vary_denominator_fraction",
+            "num_user": 10246
+        },
+        {
+            "exercise": "logarithms_1",
+            "num_user": 10243
+        },
+        {
+            "exercise": "sectors_as_fraction_of_circles_2",
+            "num_user": 10158
+        },
+        {
+            "exercise": "absolute_value_add_sub_properties",
+            "num_user": 10134
+        },
+        {
+            "exercise": "probability_1",
+            "num_user": 10130
+        },
+        {
+            "exercise": "one_step_inequalities",
+            "num_user": 10116
+        },
+        {
+            "exercise": "multiplication_association_word_problems",
+            "num_user": 10103
+        },
+        {
+            "exercise": "the_four_arithmetic_exponentially",
+            "num_user": 9701
+        },
+        {
+            "exercise": "word_problem_formula_translate",
+            "num_user": 9696
+        },
+        {
+            "exercise": "systems_of_equations_with_elimination_0.5",
+            "num_user": 9629
+        },
+        {
+            "exercise": "areas_of_trapezoids_rhombi_and_kites",
+            "num_user": 9574
+        },
+        {
+            "exercise": "adding_vectors",
+            "num_user": 9483
+        },
+        {
+            "exercise": "writing_expressions_2",
+            "num_user": 9385
+        },
+        {
+            "exercise": "denominator_comparison",
+            "num_user": 9093
+        },
+        {
+            "exercise": "volume_box_nocover",
+            "num_user": 9018
+        },
+        {
+            "exercise": "mean_median_and_mode",
+            "num_user": 8971
+        },
+        {
+            "exercise": "solving_quadratics_by_taking_the_square_root",
+            "num_user": 8952
+        },
+        {
+            "exercise": "cross_multiplication_advanced",
+            "num_user": 8928
+        },
+        {
+            "exercise": "circles_and_arcs",
+            "num_user": 8910
+        },
+        {
+            "exercise": "factoring_polynomials_2",
+            "num_user": 8852
+        },
+        {
+            "exercise": "permutations_1",
+            "num_user": 8668
+        },
+        {
+            "exercise": "subtraction_of_vary_denominator_fraction",
+            "num_user": 8559
+        },
+        {
+            "exercise": "completing_the_square_1",
+            "num_user": 8485
+        },
+        {
+            "exercise": "compound_inequalities",
+            "num_user": 8464
+        },
+        {
+            "exercise": "markup_and_commission_word_problems",
+            "num_user": 8456
+        },
+        {
+            "exercise": "ordering_numbers",
+            "num_user": 8436
+        },
+        {
+            "exercise": "identifying_points_2",
+            "num_user": 8410
+        },
+        {
+            "exercise": "interpreting_linear_equations",
+            "num_user": 8395
+        },
+        {
+            "exercise": "converting_decimals_to_fractions_2",
+            "num_user": 8394
+        },
+        {
+            "exercise": "proportions_2",
+            "num_user": 8390
+        },
+        {
+            "exercise": "multiply_by_tens",
+            "num_user": 8303
+        },
+        {
+            "exercise": "alternate_interior_angles_2",
+            "num_user": 8176
+        },
+        {
+            "exercise": "area_of_a_circle2",
+            "num_user": 8135
+        },
+        {
+            "exercise": "factoring_difference_of_squares_2",
+            "num_user": 8110
+        },
+        {
+            "exercise": "inscribed_angles_2",
+            "num_user": 8093
+        },
+        {
+            "exercise": "scaling_vectors",
+            "num_user": 7960
+        },
+        {
+            "exercise": "areas_of_circles_and_sectors",
+            "num_user": 7850
+        },
+        {
+            "exercise": "application_of_linear_equations_1",
+            "num_user": 7840
+        },
+        {
+            "exercise": "conditional_statements_2",
+            "num_user": 7837
+        },
+        {
+            "exercise": "radius_angle",
+            "num_user": 7711
+        },
+        {
+            "exercise": "square_root_calculation_3",
+            "num_user": 7676
+        },
+        {
+            "exercise": "systems_of_equations_with_elimination",
+            "num_user": 7661
+        },
+        {
+            "exercise": "vertical_concepts",
+            "num_user": 7635
+        },
+        {
+            "exercise": "understand_range_of_graphie",
+            "num_user": 7569
+        },
+        {
+            "exercise": "ordering_improper_fractions_and_mixed_numbers",
+            "num_user": 7518
+        },
+        {
+            "exercise": "logarithms_2",
+            "num_user": 7471
+        },
+        {
+            "exercise": "same_side_interior_angles_2",
+            "num_user": 7456
+        },
+        {
+            "exercise": "multiplication_formula_minus",
+            "num_user": 7445
+        },
+        {
+            "exercise": "equivalent_fractions_conversion",
+            "num_user": 7340
+        },
+        {
+            "exercise": "vertical_angles_2",
+            "num_user": 7261
+        },
+        {
+            "exercise": "special_right_triangles",
+            "num_user": 7253
+        },
+        {
+            "exercise": "midpoint_formula",
+            "num_user": 7224
+        },
+        {
+            "exercise": "fractions_cut_and_copy_1",
+            "num_user": 7215
+        },
+        {
+            "exercise": "volume_container_hight",
+            "num_user": 7202
+        },
+        {
+            "exercise": "volume_box_cover",
+            "num_user": 7201
+        },
+        {
+            "exercise": "recording_life_problem_by_expressions",
+            "num_user": 7129
+        },
+        {
+            "exercise": "adding_subtracting_mixed_numbers_1",
+            "num_user": 7126
+        },
+        {
+            "exercise": "adding_subtracting_mixed_numbers_0.5",
+            "num_user": 7117
+        },
+        {
+            "exercise": "application_of_scientific_notation_2",
+            "num_user": 7104
+        },
+        {
+            "exercise": "area_unit_cm_square",
+            "num_user": 7085
+        },
+        {
+            "exercise": "comparison_between_numbers_within_ten_0.5",
+            "num_user": 7025
+        },
+        {
+            "exercise": "volume_container",
+            "num_user": 6933
+        },
+        {
+            "exercise": "midpoint_of_a_segment",
+            "num_user": 6929
+        },
+        {
+            "exercise": "corresponding_angles_2",
+            "num_user": 6871
+        },
+        {
+            "exercise": "radians_to_degrees",
+            "num_user": 6811
+        },
+        {
+            "exercise": "arithmetic_reasoning",
+            "num_user": 6801
+        },
+        {
+            "exercise": "parallel_lines_2",
+            "num_user": 6764
+        },
+        {
+            "exercise": "combinations_of_polynomials",
+            "num_user": 6724
+        },
+        {
+            "exercise": "multiplication_and_division_order",
+            "num_user": 6676
+        },
+        {
+            "exercise": "l_ml_arithmatic",
+            "num_user": 6619
+        },
+        {
+            "exercise": "writing_expressions_3",
+            "num_user": 6559
+        },
+        {
+            "exercise": "simplificate_ractional_formula",
+            "num_user": 6557
+        },
+        {
+            "exercise": "kg_g_arithmatic",
+            "num_user": 6482
+        },
+        {
+            "exercise": "multiple_brackets",
+            "num_user": 6475
+        },
+        {
+            "exercise": "factoring_difference_of_squares_3",
+            "num_user": 6471
+        },
+        {
+            "exercise": "trigonometry_1",
+            "num_user": 6329
+        },
+        {
+            "exercise": "computing_law_with_power",
+            "num_user": 6220
+        },
+        {
+            "exercise": "recognizing_factoring",
+            "num_user": 6147
+        },
+        {
+            "exercise": "multiplying_decimal_integer",
+            "num_user": 6146
+        },
+        {
+            "exercise": "systems_of_equations_word_problems",
+            "num_user": 6080
+        },
+        {
+            "exercise": "inscribed_angles_3",
+            "num_user": 5995
+        },
+        {
+            "exercise": "solving_quadratics_by_factoring_2",
+            "num_user": 5994
+        },
+        {
+            "exercise": "segment_addition",
+            "num_user": 5988
+        },
+        {
+            "exercise": "rate_problems_1",
+            "num_user": 5949
+        },
+        {
+            "exercise": "surface_area_of_cylinders",
+            "num_user": 5912
+        },
+        {
+            "exercise": "factorization_quadratic_polynomial",
+            "num_user": 5861
+        },
+        {
+            "exercise": "understanding_square_rectangular",
+            "num_user": 5842
+        },
+        {
+            "exercise": "combining_like_terms_with_two_variables",
+            "num_user": 5822
+        },
+        {
+            "exercise": "linear_inequalities",
+            "num_user": 5807
+        },
+        {
+            "exercise": "volume_of_triangular_prisms",
+            "num_user": 5750
+        },
+        {
+            "exercise": "even_and_odd_functions",
+            "num_user": 5735
+        },
+        {
+            "exercise": "place_value_big_number",
+            "num_user": 5621
+        },
+        {
+            "exercise": "degrees_to_radians",
+            "num_user": 5614
+        },
+        {
+            "exercise": "domain_and_range_0.5",
+            "num_user": 5572
+        },
+        {
+            "exercise": "solving_similar_triangles_1",
+            "num_user": 5394
+        },
+        {
+            "exercise": "the_complex_plane",
+            "num_user": 5391
+        },
+        {
+            "exercise": "adding_and_subtracting_centimeter_and_millimeter",
+            "num_user": 5380
+        },
+        {
+            "exercise": "place_value_concept",
+            "num_user": 5347
+        },
+        {
+            "exercise": "alternate_exterior_angles_2",
+            "num_user": 5298
+        },
+        {
+            "exercise": "volume_of_cylinders",
+            "num_user": 5202
+        },
+        {
+            "exercise": "age_problems",
+            "num_user": 5100
+        },
+        {
+            "exercise": "graphing_parabolas_0.5",
+            "num_user": 5074
+        },
+        {
+            "exercise": "multiplication_formula_sub",
+            "num_user": 5000
+        },
+        {
+            "exercise": "square_cm_square_m_unit_transform",
+            "num_user": 4982
+        },
+        {
+            "exercise": "creating_box_and_whisker_plots",
+            "num_user": 4922
+        },
+        {
+            "exercise": "units",
+            "num_user": 4913
+        },
+        {
+            "exercise": "speed_applying",
+            "num_user": 4904
+        },
+        {
+            "exercise": "number_line_0.7",
+            "num_user": 4898
+        },
+        {
+            "exercise": "writing_and_interpreting_decimals",
+            "num_user": 4873
+        },
+        {
+            "exercise": "same_side_exterior_angles_2",
+            "num_user": 4832
+        },
+        {
+            "exercise": "l_ml_time_div",
+            "num_user": 4821
+        },
+        {
+            "exercise": "expressions_with_unknown_variables",
+            "num_user": 4812
+        },
+        {
+            "exercise": "rate_unit_transform",
+            "num_user": 4797
+        },
+        {
+            "exercise": "basic_concept_of_congruent_triangles",
+            "num_user": 4782
+        },
+        {
+            "exercise": "common_factor",
+            "num_user": 4726
+        },
+        {
+            "exercise": "notation_calculation_type",
+            "num_user": 4665
+        },
+        {
+            "exercise": "lhopitals_rule",
+            "num_user": 4656
+        },
+        {
+            "exercise": "angle_addition_postulate",
+            "num_user": 4525
+        },
+        {
+            "exercise": "parallel_and_perpendicular",
+            "num_user": 4496
+        },
+        {
+            "exercise": "fraction_integer",
+            "num_user": 4484
+        },
+        {
+            "exercise": "average_word_problems",
+            "num_user": 4410
+        },
+        {
+            "exercise": "functions_3",
+            "num_user": 4400
+        },
+        {
+            "exercise": "scale",
+            "num_user": 4356
+        },
+        {
+            "exercise": "kg_g_time_div",
+            "num_user": 4355
+        },
+        {
+            "exercise": "draw_a_pie_chart",
+            "num_user": 4349
+        },
+        {
+            "exercise": "multiple_unit_transate",
+            "num_user": 4337
+        },
+        {
+            "exercise": "quadratic_polynomial_word_problem",
+            "num_user": 4321
+        },
+        {
+            "exercise": "graphing_linear_equations",
+            "num_user": 4298
+        },
+        {
+            "exercise": "completing_the_square_2",
+            "num_user": 4291
+        },
+        {
+            "exercise": "comparing_with_multiplication",
+            "num_user": 4256
+        },
+        {
+            "exercise": "arithmetic_sequences_3",
+            "num_user": 4237
+        },
+        {
+            "exercise": "slope_of_a_line",
+            "num_user": 4222
+        },
+        {
+            "exercise": "statistical_table_and_chart",
+            "num_user": 4177
+        },
+        {
+            "exercise": "variables_word_problems_1",
+            "num_user": 4159
+        },
+        {
+            "exercise": "angle_bisector_theorem",
+            "num_user": 4071
+        },
+        {
+            "exercise": "area_relationship_larger_narrow_graph",
+            "num_user": 4049
+        },
+        {
+            "exercise": "subtract_of_positive_negative_fraction",
+            "num_user": 4031
+        },
+        {
+            "exercise": "factoring_polynomials_by_grouping_1",
+            "num_user": 4008
+        },
+        {
+            "exercise": "trigonometry_0.5",
+            "num_user": 3983
+        },
+        {
+            "exercise": "age_problems_new",
+            "num_user": 3940
+        },
+        {
+            "exercise": "chickens_and_rabbits_questions",
+            "num_user": 3936
+        },
+        {
+            "exercise": "linear_equations_word_problems_2",
+            "num_user": 3858
+        },
+        {
+            "exercise": "trigonometry_2",
+            "num_user": 3840
+        },
+        {
+            "exercise": "new_definitions_2",
+            "num_user": 3780
+        },
+        {
+            "exercise": "fractional_division_life_problem",
+            "num_user": 3755
+        },
+        {
+            "exercise": "adding_and_subtracting_complex_numbers",
+            "num_user": 3696
+        },
+        {
+            "exercise": "geometry_about_circle_concept",
+            "num_user": 3636
+        },
+        {
+            "exercise": "dividing_polynomials",
+            "num_user": 3563
+        },
+        {
+            "exercise": "graphing_scaling",
+            "num_user": 3560
+        },
+        {
+            "exercise": "decimals_distributive_law_of_multiplication",
+            "num_user": 3461
+        },
+        {
+            "exercise": "similar_triangles_review",
+            "num_user": 3452
+        },
+        {
+            "exercise": "dividing_polynomials_1",
+            "num_user": 3427
+        },
+        {
+            "exercise": "quadratic_equation",
+            "num_user": 3404
+        },
+        {
+            "exercise": "basic_concept_of_circumcenter",
+            "num_user": 3356
+        },
+        {
+            "exercise": "approximate_number",
+            "num_user": 3345
+        },
+        {
+            "exercise": "halves_and_fourths",
+            "num_user": 3249
+        },
+        {
+            "exercise": "dividing_polynomials_2",
+            "num_user": 3207
+        },
+        {
+            "exercise": "percentage_word_problems_2",
+            "num_user": 3196
+        },
+        {
+            "exercise": "unit_conversion_rate",
+            "num_user": 3179
+        },
+        {
+            "exercise": "make_a_line_by_ruler_and_compasses",
+            "num_user": 3174
+        },
+        {
+            "exercise": "decimal_multiplier_calculation",
+            "num_user": 3169
+        },
+        {
+            "exercise": "rate_problems_2",
+            "num_user": 3102
+        },
+        {
+            "exercise": "ratio_and_the_ratio_of",
+            "num_user": 3100
+        },
+        {
+            "exercise": "vertical_and_parallel",
+            "num_user": 3097
+        },
+        {
+            "exercise": "ratio_discount",
+            "num_user": 3067
+        },
+        {
+            "exercise": "advanced_fraction",
+            "num_user": 3065
+        },
+        {
+            "exercise": "fractions_word_problem",
+            "num_user": 3057
+        },
+        {
+            "exercise": "altitude_and_hypotenuse",
+            "num_user": 3054
+        },
+        {
+            "exercise": "fractions_cut_and_copy_2",
+            "num_user": 3026
+        },
+        {
+            "exercise": "absolute_value_of_complex_numbers",
+            "num_user": 3020
+        },
+        {
+            "exercise": "area_relationship_larger_narrow_num",
+            "num_user": 3003
+        },
+        {
+            "exercise": "absolute_value_equations",
+            "num_user": 2983
+        },
+        {
+            "exercise": "unit_circle",
+            "num_user": 2938
+        },
+        {
+            "exercise": "radical_multiplication_and_division",
+            "num_user": 2926
+        },
+        {
+            "exercise": "perimeter_of_sector",
+            "num_user": 2892
+        },
+        {
+            "exercise": "circumferential_angle",
+            "num_user": 2880
+        },
+        {
+            "exercise": "angle_of_osculation",
+            "num_user": 2838
+        },
+        {
+            "exercise": "represent_by_symbol_addend",
+            "num_user": 2838
+        },
+        {
+            "exercise": "chain_rule_1",
+            "num_user": 2787
+        },
+        {
+            "exercise": "conditional_statements_and_truth_value",
+            "num_user": 2701
+        },
+        {
+            "exercise": "systems_of_equations",
+            "num_user": 2679
+        },
+        {
+            "exercise": "vertex_of_a_parabola",
+            "num_user": 2652
+        },
+        {
+            "exercise": "arithmetic_series_1",
+            "num_user": 2644
+        },
+        {
+            "exercise": "shifting_and_reflecting_functions",
+            "num_user": 2526
+        },
+        {
+            "exercise": "derivatives_1",
+            "num_user": 2518
+        },
+        {
+            "exercise": "parabola_intuition_1",
+            "num_user": 2513
+        },
+        {
+            "exercise": "negative_numbers_multiply_divide",
+            "num_user": 2494
+        },
+        {
+            "exercise": "multiplying_complex_numbers",
+            "num_user": 2482
+        },
+        {
+            "exercise": "equation_of_a_circle_2",
+            "num_user": 2445
+        },
+        {
+            "exercise": "cone_surface_arc",
+            "num_user": 2436
+        },
+        {
+            "exercise": "independent_probability",
+            "num_user": 2421
+        },
+        {
+            "exercise": "factoring_polynomials_with_two_variables",
+            "num_user": 2416
+        },
+        {
+            "exercise": "domain_of_a_function",
+            "num_user": 2380
+        },
+        {
+            "exercise": "trig_identities_1",
+            "num_user": 2318
+        },
+        {
+            "exercise": "recognizing_shapes",
+            "num_user": 2313
+        },
+        {
+            "exercise": "expressions_with_unknown_variables_2",
+            "num_user": 2312
+        },
+        {
+            "exercise": "special_derivatives",
+            "num_user": 2305
+        },
+        {
+            "exercise": "derivative_intuition",
+            "num_user": 2300
+        },
+        {
+            "exercise": "ratio_money",
+            "num_user": 2279
+        },
+        {
+            "exercise": "lines_plane_vertical_parallel",
+            "num_user": 2251
+        },
+        {
+            "exercise": "triangles_similar_nature",
+            "num_user": 2250
+        },
+        {
+            "exercise": "percentage_concept",
+            "num_user": 2140
+        },
+        {
+            "exercise": "equation_of_a_circle_1",
+            "num_user": 2127
+        },
+        {
+            "exercise": "fraction_of_one_step_to_unknow_formula",
+            "num_user": 2121
+        },
+        {
+            "exercise": "trigonometry_1.5",
+            "num_user": 2115
+        },
+        {
+            "exercise": "regrouping_decimals",
+            "num_user": 2079
+        },
+        {
+            "exercise": "writing_expressions_w_two_var",
+            "num_user": 2054
+        },
+        {
+            "exercise": "solving_similar_triangles_2",
+            "num_user": 2023
+        },
+        {
+            "exercise": "factorization_by_add_sub_square",
+            "num_user": 2016
+        },
+        {
+            "exercise": "graphs_of_sine_and_cosine",
+            "num_user": 1993
+        },
+        {
+            "exercise": "area_of_triangular_shapes",
+            "num_user": 1991
+        },
+        {
+            "exercise": "proportional_calculation",
+            "num_user": 1946
+        },
+        {
+            "exercise": "planting_problems",
+            "num_user": 1907
+        },
+        {
+            "exercise": "geometric_construction",
+            "num_user": 1870
+        },
+        {
+            "exercise": "dividing_complex_numbers",
+            "num_user": 1820
+        },
+        {
+            "exercise": "basic_concept_of_similar_shapes",
+            "num_user": 1764
+        },
+        {
+            "exercise": "plugging_in_values",
+            "num_user": 1742
+        },
+        {
+            "exercise": "polygon_similarity",
+            "num_user": 1739
+        },
+        {
+            "exercise": "re_graphics",
+            "num_user": 1718
+        },
+        {
+            "exercise": "multiplicative_problems",
+            "num_user": 1687
+        },
+        {
+            "exercise": "triangle_length_of_side",
+            "num_user": 1670
+        },
+        {
+            "exercise": "variance",
+            "num_user": 1641
+        },
+        {
+            "exercise": "represent_by_symbol_subtrahend",
+            "num_user": 1640
+        },
+        {
+            "exercise": "large_angle_long_edge",
+            "num_user": 1614
+        },
+        {
+            "exercise": "factor_word_problems",
+            "num_user": 1614
+        },
+        {
+            "exercise": "decimal_two_steps",
+            "num_user": 1614
+        },
+        {
+            "exercise": "properties_of_incenters",
+            "num_user": 1583
+        },
+        {
+            "exercise": "converting_repeating_decimals_to_fractions_1",
+            "num_user": 1565
+        },
+        {
+            "exercise": "solving_for_the_x-intercept",
+            "num_user": 1544
+        },
+        {
+            "exercise": "proportions_inner_outer_product",
+            "num_user": 1528
+        },
+        {
+            "exercise": "planar_graph_resizing",
+            "num_user": 1524
+        },
+        {
+            "exercise": "quotient_rule",
+            "num_user": 1523
+        },
+        {
+            "exercise": "basic_concepts_of_probability_1",
+            "num_user": 1495
+        },
+        {
+            "exercise": "triangle_central_core_concept",
+            "num_user": 1478
+        },
+        {
+            "exercise": "inverse_trig_functions",
+            "num_user": 1458
+        },
+        {
+            "exercise": "dividing_polynomials_5",
+            "num_user": 1456
+        },
+        {
+            "exercise": "sequences_word_problems",
+            "num_user": 1442
+        },
+        {
+            "exercise": "graphing_inequalities",
+            "num_user": 1437
+        },
+        {
+            "exercise": "inequalities_and_expressions",
+            "num_user": 1412
+        },
+        {
+            "exercise": "shaded_areas",
+            "num_user": 1409
+        },
+        {
+            "exercise": "simplify_expressions_w_two_var_1",
+            "num_user": 1399
+        },
+        {
+            "exercise": "simple_hologram_surface_area",
+            "num_user": 1392
+        },
+        {
+            "exercise": "empirical_rule",
+            "num_user": 1388
+        },
+        {
+            "exercise": "power_rule",
+            "num_user": 1372
+        },
+        {
+            "exercise": "radians_and_degrees",
+            "num_user": 1360
+        },
+        {
+            "exercise": "graphing_points_fraction_1",
+            "num_user": 1344
+        },
+        {
+            "exercise": "dividing_polynomials_3",
+            "num_user": 1341
+        },
+        {
+            "exercise": "solving_for_the_y-intercept",
+            "num_user": 1333
+        },
+        {
+            "exercise": "converting_repeating_decimals_to_fractions_2",
+            "num_user": 1297
+        },
+        {
+            "exercise": "inverse_proportional_calculation",
+            "num_user": 1289
+        },
+        {
+            "exercise": "define_one_function",
+            "num_user": 1280
+        },
+        {
+            "exercise": "basic_concepts_of_probability_2",
+            "num_user": 1275
+        },
+        {
+            "exercise": "calculation_of_proportions",
+            "num_user": 1258
+        },
+        {
+            "exercise": "eval_expressions_w_two_var",
+            "num_user": 1255
+        },
+        {
+            "exercise": "point_slope_form",
+            "num_user": 1246
+        },
+        {
+            "exercise": "herons_formula",
+            "num_user": 1239
+        },
+        {
+            "exercise": "distance_between_point_and_line",
+            "num_user": 1195
+        },
+        {
+            "exercise": "graphing_parabolas_1",
+            "num_user": 1182
+        },
+        {
+            "exercise": "regular_number_of_columns",
+            "num_user": 1180
+        },
+        {
+            "exercise": "solving_linear_inequalities",
+            "num_user": 1146
+        },
+        {
+            "exercise": "simplify_expressions_w_two_var_2",
+            "num_user": 1146
+        },
+        {
+            "exercise": "calculations_using_similar_shapes",
+            "num_user": 1136
+        },
+        {
+            "exercise": "line_graph_intuition",
+            "num_user": 1133
+        },
+        {
+            "exercise": "parabola_intuition_3",
+            "num_user": 1133
+        },
+        {
+            "exercise": "geometry_proofs_2",
+            "num_user": 1130
+        },
+        {
+            "exercise": "solving_for_a_variable",
+            "num_user": 1120
+        },
+        {
+            "exercise": "matrix_row_echelon",
+            "num_user": 1110
+        },
+        {
+            "exercise": "dividing_polynomials_4",
+            "num_user": 1085
+        },
+        {
+            "exercise": "parabola_intuition_2",
+            "num_user": 1067
+        },
+        {
+            "exercise": "dependent_probability",
+            "num_user": 1053
+        },
+        {
+            "exercise": "moving_points",
+            "num_user": 1041
+        },
+        {
+            "exercise": "arithmetic_means",
+            "num_user": 1028
+        },
+        {
+            "exercise": "slope_intercept_form",
+            "num_user": 1020
+        },
+        {
+            "exercise": "systems_of_equ_substitution_1",
+            "num_user": 1016
+        },
+        {
+            "exercise": "exploring_standard_deviation_1",
+            "num_user": 1013
+        },
+        {
+            "exercise": "inverses_of_functions",
+            "num_user": 1012
+        },
+        {
+            "exercise": "product_rule",
+            "num_user": 1006
+        },
+        {
+            "exercise": "geometry_proofs_1",
+            "num_user": 986
+        },
+        {
+            "exercise": "midpoint_coordinates",
+            "num_user": 974
+        },
+        {
+            "exercise": "parallel_lines_proportion",
+            "num_user": 946
+        },
+        {
+            "exercise": "complex_fraction",
+            "num_user": 939
+        },
+        {
+            "exercise": "standard_deviation",
+            "num_user": 931
+        },
+        {
+            "exercise": "z_scores_1",
+            "num_user": 930
+        },
+        {
+            "exercise": "graphing_parabolas_2",
+            "num_user": 916
+        },
+        {
+            "exercise": "equation_of_a_line",
+            "num_user": 903
+        },
+        {
+            "exercise": "constant_function_and_a_fuction",
+            "num_user": 866
+        },
+        {
+            "exercise": "dividing_polynomials_6",
+            "num_user": 859
+        },
+        {
+            "exercise": "marking_inequalities_range_on_a_number_line",
+            "num_user": 840
+        },
+        {
+            "exercise": "simplify_expressions_w_two_var_3",
+            "num_user": 825
+        },
+        {
+            "exercise": "matrix_add_sub_2",
+            "num_user": 816
+        },
+        {
+            "exercise": "line_relationships",
+            "num_user": 814
+        },
+        {
+            "exercise": "range_of_a_function",
+            "num_user": 804
+        },
+        {
+            "exercise": "represent_by_symbol_dividend",
+            "num_user": 800
+        },
+        {
+            "exercise": "matrix_basic_percentage",
+            "num_user": 797
+        },
+        {
+            "exercise": "range_of_triangle_sides_2",
+            "num_user": 796
+        },
+        {
+            "exercise": "geometry_categorial_proposition",
+            "num_user": 789
+        },
+        {
+            "exercise": "geometry_identification_concept",
+            "num_user": 781
+        },
+        {
+            "exercise": "simple_hologram_concept",
+            "num_user": 779
+        },
+        {
+            "exercise": "area_of_fans",
+            "num_user": 778
+        },
+        {
+            "exercise": "ratio",
+            "num_user": 774
+        },
+        {
+            "exercise": "systems_of_equ_elimination_1",
+            "num_user": 773
+        },
+        {
+            "exercise": "range_quarter_case_chart",
+            "num_user": 742
+        },
+        {
+            "exercise": "matrix_add_zero_negative",
+            "num_user": 720
+        },
+        {
+            "exercise": "graphs_of_linear_equations",
+            "num_user": 707
+        },
+        {
+            "exercise": "z_scores_3",
+            "num_user": 701
+        },
+        {
+            "exercise": "arc_length_and_circular_sector_area",
+            "num_user": 697
+        },
+        {
+            "exercise": "multiple_proportions_reasoning",
+            "num_user": 694
+        },
+        {
+            "exercise": "quadratic_function_concept",
+            "num_user": 633
+        },
+        {
+            "exercise": "equation_of_an_ellipse",
+            "num_user": 631
+        },
+        {
+            "exercise": "basic_graph_and_composite_graph_area",
+            "num_user": 629
+        },
+        {
+            "exercise": "matrix_basic_product",
+            "num_user": 621
+        },
+        {
+            "exercise": "parallelogram_concept_and_application",
+            "num_user": 586
+        },
+        {
+            "exercise": "ungroup_median",
+            "num_user": 563
+        },
+        {
+            "exercise": "matrix_basic_distance",
+            "num_user": 558
+        },
+        {
+            "exercise": "proportional_life_problems",
+            "num_user": 556
+        },
+        {
+            "exercise": "triangles_congruent_nature_sss",
+            "num_user": 526
+        },
+        {
+            "exercise": "arithmetic_series",
+            "num_user": 510
+        },
+        {
+            "exercise": "graphing_inequalities_2",
+            "num_user": 509
+        },
+        {
+            "exercise": "calculating_averages_advanced",
+            "num_user": 509
+        },
+        {
+            "exercise": "inequality_properties",
+            "num_user": 508
+        },
+        {
+            "exercise": "z_scores_2",
+            "num_user": 508
+        },
+        {
+            "exercise": "graphing_points_fraction_2",
+            "num_user": 499
+        },
+        {
+            "exercise": "converting_between_slope_intercept_and_standard_form",
+            "num_user": 484
+        },
+        {
+            "exercise": "realizing_inequalities",
+            "num_user": 478
+        },
+        {
+            "exercise": "nature_of_isosceles_triangle",
+            "num_user": 477
+        },
+        {
+            "exercise": "inequality_symbol_word_problems",
+            "num_user": 473
+        },
+        {
+            "exercise": "relationships_linear_equations",
+            "num_user": 470
+        },
+        {
+            "exercise": "matrix_add_sub_3",
+            "num_user": 453
+        },
+        {
+            "exercise": "converting_between_point_slope_and_slope_intercept",
+            "num_user": 440
+        },
+        {
+            "exercise": "systems_of_equ_substitution_2",
+            "num_user": 438
+        },
+        {
+            "exercise": "baseline_compareline",
+            "num_user": 430
+        },
+        {
+            "exercise": "polygon_geometry_characteristic",
+            "num_user": 424
+        },
+        {
+            "exercise": "concepts_related_to_kite",
+            "num_user": 409
+        },
+        {
+            "exercise": "quadratics_word_problems",
+            "num_user": 397
+        },
+        {
+            "exercise": "systems_of_equations_with_elimination_3",
+            "num_user": 370
+        },
+        {
+            "exercise": "rates_and_ratios",
+            "num_user": 368
+        },
+        {
+            "exercise": "graphing_systems_of_inequalities",
+            "num_user": 361
+        },
+        {
+            "exercise": "triangles_congruent_nature_sas",
+            "num_user": 351
+        },
+        {
+            "exercise": "matrix_gaussian_elimination",
+            "num_user": 334
+        },
+        {
+            "exercise": "triangles_congruent_nature_aas",
+            "num_user": 329
+        },
+        {
+            "exercise": "quadratic_function_graphing",
+            "num_user": 326
+        },
+        {
+            "exercise": "graphing_systems_of_inequalities_2",
+            "num_user": 325
+        },
+        {
+            "exercise": "concepts_related_to_diamond",
+            "num_user": 322
+        },
+        {
+            "exercise": "matrix_triangular_and_symmetric",
+            "num_user": 321
+        },
+        {
+            "exercise": "vector_add_sub_two",
+            "num_user": 320
+        },
+        {
+            "exercise": "life_1",
+            "num_user": 297
+        },
+        {
+            "exercise": "matrix_mul_zero_one",
+            "num_user": 295
+        },
+        {
+            "exercise": "equation_of_a_hyperbola",
+            "num_user": 288
+        },
+        {
+            "exercise": "trapezoid_concept_and_application",
+            "num_user": 287
+        },
+        {
+            "exercise": "matrix_row_operation",
+            "num_user": 276
+        },
+        {
+            "exercise": "concepts_related_to_parallelogram",
+            "num_user": 273
+        },
+        {
+            "exercise": "triangles_congruent_nature_rhs",
+            "num_user": 271
+        },
+        {
+            "exercise": "baseline_compareline_application",
+            "num_user": 260
+        },
+        {
+            "exercise": "quadratic_function_maximum_and_minimum",
+            "num_user": 260
+        },
+        {
+            "exercise": "matrix_transpose",
+            "num_user": 252
+        },
+        {
+            "exercise": "special_triangle_and_quadrilateral_concept",
+            "num_user": 218
+        },
+        {
+            "exercise": "matrix_submatrix",
+            "num_user": 217
+        },
+        {
+            "exercise": "basic_compared_with_the_reference_quantity",
+            "num_user": 208
+        },
+        {
+            "exercise": "matrix_mul_scalar",
+            "num_user": 205
+        },
+        {
+            "exercise": "triangles_congruent_nature_asa",
+            "num_user": 205
+        },
+        {
+            "exercise": "quadratic_function_word_problem",
+            "num_user": 154
+        },
+        {
+            "exercise": "systems_of_equations_with_elimination_2",
+            "num_user": 100
+        },
+        {
+            "exercise": "matrix_mul_two_2",
+            "num_user": 90
+        },
+        {
+            "exercise": "variables_word_problems_2",
+            "num_user": 63
+        },
+        {
+            "exercise": "count_number_to_50",
+            "num_user": 48
+        },
+        {
+            "exercise": "application_of_linear_equations_2",
+            "num_user": 41
+        },
+        {
+            "exercise": "common_factor_advance",
+            "num_user": 34
+        },
+        {
+            "exercise": "geometry_proofs_intro",
+            "num_user": 30
+        },
+        {
+            "exercise": "four_operations_and_decimal_fraction",
+            "num_user": 29
+        },
+        {
+            "exercise": "geometry_1",
+            "num_user": 24
+        },
+        {
+            "exercise": "km_m_unit_transform",
+            "num_user": 18
+        },
+        {
+            "exercise": "dividing_decimals_int_to_int_0.5",
+            "num_user": 8
+        },
+        {
+            "exercise": "count_number_to_20",
+            "num_user": 8
+        },
+        {
+            "exercise": "matrix_mul_two",
+            "num_user": 8
+        },
+        {
+            "exercise": "subtraction_within_20",
+            "num_user": 8
+        },
+        {
+            "exercise": "multiplication_and_division_word_problems",
+            "num_user": 7
+        },
+        {
+            "exercise": "dividing_decimals_int_to_int_0.7",
+            "num_user": 7
+        },
+        {
+            "exercise": "completing_the_square_1_new",
+            "num_user": 7
+        },
+        {
+            "exercise": "distributive_property_with_variables",
+            "num_user": 5
+        },
+        {
+            "exercise": "matrix_app_fruit_oil",
+            "num_user": 3
+        },
+        {
+            "exercise": "multiplying_fractions_and_whole_numbers_word_problems",
+            "num_user": 2
+        },
+        {
+            "exercise": "skip_counting_by_10s",
+            "num_user": 1
+        },
+        {
+            "exercise": "common_factors_of_a_polynomial_2",
+            "num_user": 1
+        },
+        {
+            "exercise": "one_step_equations_0.5",
+            "num_user": 1
+        },
+        {
+            "exercise": "ircles_and_arcs",
+            "num_user": 1
+        }
+    ]
+}

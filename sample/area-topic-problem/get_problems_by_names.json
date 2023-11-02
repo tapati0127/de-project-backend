@@ -1,0 +1,29 @@
+{
+    "count": 2,
+    "results": [
+        {
+            "answer": "C",
+            "area": "geometry",
+            "documents": "['https://trientp-public.s3.ap-northeast-1.amazonaws.com/de/fpure_ch3.pdf', 'https://trientp-public.s3.ap-northeast-1.amazonaws.com/de/AMP-Appendix-A.pdf', 'https://trientp-public.s3.ap-northeast-1.amazonaws.com/de/Handout-ExponentsandRadicals1.pdf']",
+            "name": "basic_concept_of_congruent_triangles",
+            "options": "['A)45 years', 'B)48.5 years', 'C)28.5 years', 'D)26.5 years', 'E)27.5 years']",
+            "prerequisites": "parallel_lines_2,meaning_congruent_planar_graph,parallel_lines_proportion",
+            "question": "The average age of 40 students is 8 years. If the age of teacher is also included , then their average age increases by half a year. What is the age of the teacher?",
+            "rationale": "Total age of 40 students = 40*8 = 320\nLet the age of the the teacher be x, Then (320+x)/41 = 8+1/2 =8 ½.\n320+x =17/2*41 =697/2 = 348.5,\nx =348.5-320 = 28.5\nANSWER:C",
+            "seconds_per_fast_problem": 13.0,
+            "topic": "congruent-triangles"
+        },
+        {
+            "answer": "C",
+            "area": "geometry",
+            "documents": "['https://trientp-public.s3.ap-northeast-1.amazonaws.com/de/fpure_ch3.pdf', 'https://trientp-public.s3.ap-northeast-1.amazonaws.com/de/s05-linear-equations-and-inequalit.pdf', 'https://trientp-public.s3.ap-northeast-1.amazonaws.com/de/Chapter-11.pdf']",
+            "name": "congruent_triangles_1",
+            "options": "['A)69', 'B)78', 'C)96', 'D)56', 'E)48']",
+            "prerequisites": "angles_2,parallel_lines_2,basic_concept_of_congruent_triangles",
+            "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?",
+            "rationale": "let the digits be x,y\nx + y = 15\nx - y = 3\n2x = 18, x = 9 so y = 6\nhence the number is 96\nso the correct answer is option C) 96.",
+            "seconds_per_fast_problem": 5.0,
+            "topic": "congruent-triangles"
+        }
+    ]
+}
