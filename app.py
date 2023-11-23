@@ -220,7 +220,7 @@ def get_problems_correct_rate_by_user_id():
 def write_log():
     try:
         # Extract input data from the request
-        data = request.args
+        data = request.get_json()
         if not data:
             return jsonify({"error": "No data provided"}), 400
 
@@ -229,10 +229,13 @@ def write_log():
         time_done = int(datetime.now().timestamp()*1000000)
         time_taken = data['time_taken']
         correct = data['correct']
+
+        print(user_id, exercise, time_done, time_taken, correct)
         junyi.write_log(user_id, exercise, time_done, time_taken, correct)
         return jsonify({"info": "write log OK!"}), 201
 
     except Exception as e:
+        print(e)
         return jsonify({"error": str(e)}), 500
 
 

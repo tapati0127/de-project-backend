@@ -128,7 +128,7 @@ class Junyi:
         q = f"""SELECT user_id, exercise,  problem_type, time_done, time_taken, time_taken_attempts, 
         correct, count_attempts, hint_used, count_hints, hint_time_taken_list, earned_proficiency, points_earned   FROM log_table
         WHERE user_id = {user_id} {time_query}
-        ORDER BY time_done DESC;"""
+        ORDER BY time_done DESC LIMIT 100;"""
         return self._query(q)
 
     def get_total_problem_correct_rate_by_user_id(self, user_id, start="", end=""):
@@ -142,7 +142,7 @@ class Junyi:
         q = f"""SELECT MAX(log_table.time_done) as last_try, COUNT(log_table.time_done) as num_done, SUM(CASE WHEN log_table.correct = 1 THEN 1 ELSE 0 END) as correct, problem.area FROM log_table 
         RIGHT JOIN problem ON log_table.exercise=problem.name
         WHERE user_id = {user_id} {time_query} 
-        GROUP BY problem.area ORDER BY last_try DESC"""
+        GROUP BY problem.area ORDER BY last_try DESC LIMIT 15"""
         return self._query(q)
 
     def get_topics_correct_rate_by_user_id(self, user_id, start=None, end=None):
@@ -150,7 +150,7 @@ class Junyi:
         q = f"""SELECT MAX(log_table.time_done) as last_try, COUNT(log_table.time_done) as num_done, SUM(CASE WHEN log_table.correct = 1 THEN 1 ELSE 0 END) as correct, problem.topic FROM log_table
         RIGHT JOIN problem ON log_table.exercise=problem.name
         WHERE user_id = {user_id} {time_query} 
-        GROUP BY problem.topic ORDER BY last_try DESC"""
+        GROUP BY problem.topic ORDER BY last_try DESC LIMIT 15"""
         return self._query(q)
 
     def get_problems_correct_rate_by_user_id(self, user_id, start=None, end=None):
@@ -158,7 +158,7 @@ class Junyi:
         q = f"""SELECT MAX(log_table.time_done) as last_try, COUNT(log_table.time_done) as num_done, SUM(CASE WHEN log_table.correct = 1 THEN 1 ELSE 0 END) as correct, problem.name FROM log_table
         RIGHT JOIN problem ON log_table.exercise=problem.name
         WHERE user_id = {user_id} {time_query} 
-        GROUP BY problem.name ORDER BY last_try DESC"""
+        GROUP BY problem.name ORDER BY last_try DESC LIMIT 15"""
         return self._query(q)
 
     def write_log(self, user_id, exercise, time_done, time_taken, correct):
@@ -183,11 +183,11 @@ class Junyi:
         if time_query:
             q = f"""SELECT count(user_id) as num_user, exercise FROM log_table
             WHERE {time_query}
-            GROUP BY exercise ORDER BY num_user DESC 
+            GROUP BY exercise ORDER BY num_user DESC  LIMIT 15
             """
         else:
             q = f"""SELECT count(user_id) as num_user, exercise FROM log_table
-            GROUP BY exercise ORDER BY num_user DESC"""
+            GROUP BY exercise ORDER BY num_user DESC LIMIT 15"""
         return self._query(q)
 
     def statistic_topics(self, start=None, end=None):
@@ -196,12 +196,12 @@ class Junyi:
             q = f"""SELECT  topic, count(user_id) as num_done  FROM log_table
             JOIN problem ON problem.name = log_table.exercise
             WHERE {time_query}
-            GROUP BY topic ORDER BY num_done DESC 
+            GROUP BY topic ORDER BY num_done DESC LIMIT 15
             """
         else:
             q = f"""SELECT  topic, count(user_id) as num_done  FROM log_table 
             JOIN problem ON problem.name = log_table.exercise
-            GROUP BY topic ORDER BY num_done DESC """
+            GROUP BY topic ORDER BY num_done DESC LIMIT 15"""
         return self._query(q)
 
     def statistic_areas(self, start=None, end=None):
