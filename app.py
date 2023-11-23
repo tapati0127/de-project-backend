@@ -11,10 +11,11 @@ junyi = Junyi()
 def login():
     try:
         # Extract input data from the request
-        data = request.args
+        data = request.get_json()
 
         username = data['username']
         password = data['password']
+        print(username, password)
 
         user_info = junyi.login(username, password)
 
